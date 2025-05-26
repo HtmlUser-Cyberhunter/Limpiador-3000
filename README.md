@@ -13,3 +13,6 @@ Componentes:
 - Material reciclable
 - Madera
 - pintura
+- cepillo
+
+  ## El proyecto sigue en construccion por lo que se seguiran agregando materiales y procedimientos
